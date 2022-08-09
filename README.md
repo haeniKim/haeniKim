@@ -17,7 +17,7 @@
 ![Haeni's GitHub stats](https://github-readme-stats.vercel.app/api?username=haeniKim&theme=buefy&show_icons=true)
 ---
 # :seedling: 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ds18hn)](https://solved.ac/ds18hn/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ds18hn)](https://solved.ac/ds18hn)
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haeniKim&layout=compact)](https://github.com/haeniKim/github-readme-stats)
