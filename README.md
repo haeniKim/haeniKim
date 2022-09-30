@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Haeni%20Kim&fontSize=80)
 
 <div align="center">
+
 # :raised_hands: Hi
 
 # :hammer: Tech Stack
@@ -37,11 +38,11 @@ Techs that I've used at least once
 
 # :bar_chart: Stats
 ![Haeni's GitHub stats](https://github-readme-stats.vercel.app/api?username=haeniKim&theme=buefy&show_icons=true)
----
+
 # :seedling: 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ds18hn)](https://solved.ac/ds18hn)
 
----
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haeniKim&layout=compact)](https://github.com/haeniKim/github-readme-stats)
 
 </div>
