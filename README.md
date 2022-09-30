@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Haeni%20Kim&fontSize=80)
 
+<div align="center">
 # :raised_hands: Hi
 
 # :hammer: Tech Stack
@@ -26,11 +27,12 @@
 
 Techs that I've used at least once
 
-<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Qgis-589632?style=flat-square&logo=Qgis&logoColor=white"/>
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=Microsoft Excel&logoColor=white"/>
-
+<div>
+    <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Qgis-589632?style=flat-square&logo=Qgis&logoColor=white"/>
+    <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=Microsoft Excel&logoColor=white"/>
+</div>
   
 
 # :bar_chart: Stats
@@ -41,3 +43,5 @@ Techs that I've used at least once
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haeniKim&layout=compact)](https://github.com/haeniKim/github-readme-stats)
+
+</div>
