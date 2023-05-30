@@ -5,7 +5,7 @@
 # :raised_hands: Hi
 <div>
     * I majored in data science.<br>
-    * I am currently interested in Computer Vison, Metaverse
+    * I am currently interested in Computer Vison, Metaverse. <br>
 </div>
 # :hammer: Tech Stack
 <div>
