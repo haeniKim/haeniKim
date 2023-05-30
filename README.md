@@ -3,7 +3,10 @@
 <div align="center">
 
 # :raised_hands: Hi
-
+<div>
+    * I majored in data science.<br>
+    * I am currently interested in Computer Vison, Metaverse
+</div>
 # :hammer: Tech Stack
 <div>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
