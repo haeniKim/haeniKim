@@ -2,18 +2,19 @@
 
 <div align="center">
 
-# :raised_hands: Hi, there!
+## :raised_hands: Hi, there!
 <div>
     ****<br>
     **I am currently interested in Computer Vison, Metaverse, AI Techs. ** <br>
 </div>
 
-# 📆: Experience
-
+## 📆 Experience
+| period | content |
+| ------- | ------- |
 | 2018.02 - 2023.02 | Sungkyunkwan University, Data Science |
 | 2023.05 - 2023.11 | Metaverse Academy 2nd - AI |
 
-# :hammer: Tech Stack
+## :hammer: Tech Stack
 <div>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/>
