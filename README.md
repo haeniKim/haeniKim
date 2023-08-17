@@ -2,12 +2,17 @@
 
 <div align="center">
 
-# :raised_hands: Hi
+# :raised_hands: Hi, there!
 <div>
-    * I majored in data science.<br>
-    * I am currently interested in Computer Vison, Metaverse. <br>
+    ****<br>
+    **I am currently interested in Computer Vison, Metaverse, AI Techs. ** <br>
 </div>
-   
+
+# 📆: Experience
+
+| 2018.02 - 2023.02 | Sungkyunkwan University, Data Science |
+| 2023.05 - 2023.11 | Metaverse Academy 2nd - AI |
+
 # :hammer: Tech Stack
 <div>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
