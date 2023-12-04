@@ -5,7 +5,7 @@
 ## :raised_hands: Hi, there!
 <div>
     ****<br>
-    **I am currently interested in Computer Vison, Metaverse, AI Techs.** <br>
+    I am currently interested in Computer Vison, Metaverse, AI Techs. <br>
 </div>
 
 ## 📆 Experience
