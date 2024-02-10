@@ -4,7 +4,8 @@
 
 ## :raised_hands: Hi, there!
 <div>
-    ****<br>
+    <br>
+   Now, I work as a Data Engineer🛠
     I am currently interested in Computer Vison, Metaverse, AI Techs. <br>
 </div>
 
