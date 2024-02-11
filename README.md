@@ -6,6 +6,7 @@
 <div>
     <br>
    Now, I work as a Data Engineer🛠
+    <br>
     I am currently interested in Computer Vison, Metaverse, AI Techs. <br>
 </div>
 
@@ -51,6 +52,8 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haeniKim&layout=compact)](https://github.com/haeniKim/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haeniKim)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
