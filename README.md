@@ -7,7 +7,7 @@
     <br>
    Now, I work as a Data Engineer🛠
     <br>
-    I am currently interested in Computer Vison, Metaverse, AI Techs. <br>
+    I am interested in Computer Vison, Metaverse, AI Techs. <br>
 </div>
 
 ## 📆 Experience
@@ -20,6 +20,7 @@
 <div>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Elasticsearch-E97627?style=flat-square&logo=Tableau&logoColor=white"/>
     <div>Elasticsearch</div>
     <div>Logstash</div>
 
