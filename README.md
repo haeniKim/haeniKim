@@ -20,11 +20,11 @@
 <div>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Elasticsearch-E97627?style=flat-square&logo=Tableau&logoColor=white"/>
-    <div>Elasticsearch</div>
-    <div>Logstash</div>
-
-<
+    <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Ddjango-092E20?style=flat-square&logo=Django&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white"/>
+    
 
  
 </div>
