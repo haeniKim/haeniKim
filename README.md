@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Haeni%20Kim&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Haeni%20Kim&fontSize=80)
 
 <div align="center">
 
